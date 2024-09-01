@@ -1,0 +1,38 @@
+.main {
+  margin: 2.5rem;
+  padding: 2.5rem 5rem;
+  background-color: var(--color-dark--2);
+  min-height: calc(100vh - 5rem);
+  color: #F5EDF0;
+}
+
+.main section {
+  width: clamp(80rem, 80%, 90rem);
+  margin: 2rem auto;
+  /* margin-left: -5rem; */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* gap: 7rem; */
+  align-items: center;
+}
+
+.main img {
+  width: 100%;
+  height: 100%;
+  scale: 0.7;
+}
+
+.main h2 {
+  font-size: 4rem;
+  line-height: 1.2;
+  margin-bottom: 3rem;
+}
+
+.main p {
+  font-size: 1.6rem;
+  margin-bottom: 2rem;
+}
+
+.main section a {
+  margin-top: 2rem;
+}

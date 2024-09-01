@@ -1,0 +1,7 @@
+.main {
+  margin: 2.5rem;
+  padding: 2.5rem 5rem;
+  background-color: var(--color-dark--2);
+  min-height: calc(100vh - 5rem);
+  color: #f5edf0;
+}

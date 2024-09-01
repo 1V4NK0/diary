@@ -1,0 +1,11 @@
+{
+  "entries": [
+    {
+      "id": "sjndfv321",
+      "name": "example entry",
+      "content": "lorem ipsum",
+      "mood-emoji": "🐶",
+      "date": "09-12-2008"
+    }
+  ]
+}
